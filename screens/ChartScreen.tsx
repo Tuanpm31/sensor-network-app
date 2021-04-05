@@ -66,7 +66,7 @@ export const ChartScreen = (): React.ReactElement => {
     }
 
 
-  })
+  }, [])
 
   return (
     <React.Fragment>
